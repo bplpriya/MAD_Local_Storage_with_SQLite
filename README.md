@@ -31,32 +31,6 @@
 
 ---
 
-## Project Structure
-
-```
-lib/
-├─ db/
-│  └─ database_helper.dart
-├─ models/
-│  ├─ folder_model.dart
-│  └─ card_model.dart
-├─ repositories/
-│  ├─ folder_repository.dart
-│  └─ card_repository.dart
-├─ screens/
-│  ├─ home_screen.dart
-│  └─ folder_detail_screen.dart
-└─ main.dart
-assets/
-├─ hearts/
-├─ spades/
-├─ diamonds/
-└─ clubs/
-pubspec.yaml
-```
-
----
-
 ## Usage
 
 - Tap a folder to see its cards.  
